@@ -1,2 +1,2 @@
-# templates
-Todos os templates e designers da archon serão salvos aqui
+# Templates
+Todos os templates e designers da archon estarão disponiveis aqui
